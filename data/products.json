@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Black Oversized Hoodie",
+    "category": "hoodie",
+    "price": 1299,
+    "tags": [
+      "streetwear",
+      "winter",
+      "black",
+      "oversized",
+      "casual"
+    ],
+    "description": "Oversized black hoodie, warm fleece, streetwear casual look."
+  },
+  {
+    "id": 2,
+    "name": "White Sneakers Classic",
+    "category": "shoes",
+    "price": 1999,
+    "tags": [
+      "minimal",
+      "white",
+      "daily",
+      "casual"
+    ],
+    "description": "Classic minimal white sneakers for daily wear and comfort."
+  },
+  {
+    "id": 3,
+    "name": "Formal Navy Blazer",
+    "category": "blazer",
+    "price": 3499,
+    "tags": [
+      "formal",
+      "office",
+      "navy",
+      "smart"
+    ],
+    "description": "Navy blazer for office and formal events. Sharp fit and smart style."
+  }
+]
